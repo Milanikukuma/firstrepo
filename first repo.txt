@@ -1,6 +1,3 @@
-This is my first put in git
-
-Hello world
 
 what up!
 
